@@ -4,7 +4,7 @@
 
 ---
 
-### 🧠 AI Developer & Biomedical Engineer
+### 🧠 Biomedical Engineering Student  
 
 ---
 
