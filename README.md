@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nada Bouali
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0A66C2\&size=22\&center=true\&vCenter=true\&width=600\&lines=Biomedical+Engineer;AI+Enthusiast;Deep+Learning+Learner;Future+Researcher)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0A66C2\&size=22\&center=true\&vCenter=true\&width=600\&lines=Biomedical+Engineer;AI+Enthusiast;Deep+Learning+Learner)
 
 ---
 
