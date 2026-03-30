@@ -10,7 +10,7 @@
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nada-bouali)
+www.linkedin.com/in/nada-bouali
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:nada.bouali@intek.u-jendouba.tn)
 
 ---
@@ -81,7 +81,5 @@ I enjoy working on projects related to deep learning, medical imaging, and biome
 
 ---
 
-## ⚡ Fun Fact
 
-I love combining AI with healthcare to build intelligent medical solutions 🧬
 # nada-bouali
